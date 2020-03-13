@@ -1,6 +1,0 @@
-server folder - all the server side code, this folder was deployed to heroko server for api use 
-                on the clinet side.
-
-app folder - this folder is the clinet side for android devices , for android install go to 
-	     home/lidor/Desktop/FindYourFit/client/App/android/app/build/outputs/apk path and copy 
-	     app-releaseEnd.apk file to your device and install it.
